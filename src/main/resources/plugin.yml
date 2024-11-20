@@ -1,0 +1,4 @@
+name: NeoForge
+version: '${project.version}'
+main: io.github.anonventions.neoforge.NeoForge
+api-version: '1.20'
